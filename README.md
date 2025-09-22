@@ -62,56 +62,6 @@
 
 ---
 
-## Instruções de instalação
-
-### Pré-requisitos
-
-- Node.js (versão 16 ou superior)
-- npm ou yarn como gerenciador de pacotes
-- Acesso à URL da API para testes (fornecida pelo time de backend)
-
-### Passos para instalar
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/usuario/digital-educa-frontend.git
-   ```
-
-2. Acesse o diretório do projeto:
-
-   ```bash
-   cd digital-educa-frontend
-   ```
-
-3. Instale as dependências:
-
-   ```bash
-   npm install
-   ```
-
-   ou
-
-   ```bash
-   yarn install
-   ```
-
-4. Inicie a aplicação em modo de desenvolvimento:
-
-   ```bash
-   npm start
-   ```
-
-   ou
-
-   ```bash
-   yarn start
-   ```
-
-5. Abra o navegador em `http://localhost:3000` para visualizar a aplicação.
-
----
-
 ## Estrutura do projeto
 
 ```plaintext
@@ -130,13 +80,3 @@ digital-educa-frontend/
 ├── package.json             # Dependências e scripts do projeto
 └── README.md                # Documentação do projeto
 ```
-
----
-
-## Contato
-
-Para dúvidas ou suporte, entre em contato com o time de desenvolvimento:
-
-- Email: suporte@digitaleduca.com
-
-Issues: GitHub Issues
