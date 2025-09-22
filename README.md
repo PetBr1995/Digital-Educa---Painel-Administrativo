@@ -80,3 +80,11 @@ digital-educa-frontend/
 ├── package.json             # Dependências e scripts do projeto
 └── README.md                # Documentação do projeto
 ```
+
+---
+
+## Observações
+
+O código do projeto está em repositório privado.
+
+Este README tem o objetivo de apresentar funcionalidades, tecnologias e fluxos do projeto sem expor código sensível.
