@@ -72,7 +72,7 @@ digital-educa-frontend/
 │   ├── pages/               # Páginas principais da aplicação
 │   ├── theme/               # Configuração global do tema (Materual UI)
 │   ├── App.css
-│   ├── App.js               # Componente principal da aplicação
+│   ├── App.jsx              # Componente principal da aplicação
 │   ├── App.test.js
 │   ├── index.css
 │   ├── index.jsx
