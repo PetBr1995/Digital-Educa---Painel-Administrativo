@@ -83,6 +83,12 @@ digital-educa-frontend/
 
 ---
 
+## Telas
+
+![Dashboard](dashboard.jpeg)
+
+---
+
 ## Observações
 
 O código do projeto está em repositório privado.
