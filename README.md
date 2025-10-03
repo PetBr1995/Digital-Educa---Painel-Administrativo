@@ -84,8 +84,18 @@ digital-educa-frontend/
 ---
 
 ## Telas
-
+#### Tela de Login
 ![Dashboard](https://i.imgur.com/FtKKfTq.jpeg)
+#### Dashboard
+![Dashboard](https://i.imgur.com/vE08ex1.jpeg)
+#### Drawer Aberto
+![Dashboard](https://i.imgur.com/JYpx3rK.jpeg)
+#### Conteudos
+![Dashboard](https://i.imgur.com/2ZoCrUM.jpeg)
+#### Gerenciador de usuários
+![Dashboard](https://i.imgur.com/ScA5LNl.jpeg)
+#### Cadastro de usuários
+![Dashboard](https://i.imgur.com/6vkgdsd.jpeg)
 
 ---
 
