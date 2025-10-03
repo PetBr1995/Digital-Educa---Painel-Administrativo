@@ -85,7 +85,7 @@ digital-educa-frontend/
 
 ## Telas
 
-![Dashboard](dashboard.jpeg)
+![Dashboard](./dashboard.jpeg)
 
 ---
 
